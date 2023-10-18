@@ -16,13 +16,13 @@
  7)import time
  8)import sys
  ```
->> pip install opencv-python
->> pip install immutils
->> pip install scipy
->> pip install playsound
+# >> pip install opencv-python
+# >> pip install immutils
+# >> pip install scipy
+# >> pip install playsound
 --> For dlib : Issues will occur , for this reason - download the whl file for your Python version . Then use command from PyCharm as
->> pip install "C:\Users\madhu\Desktop\ML - Jupyter Projects\dlib-19.24.1-cp311-cp311-win_amd64.whl"    [Kindly replace with your file location}
->> pip install face_recognition
+# >> pip install "C:\Users\madhu\Desktop\ML - Jupyter Projects\dlib-19.24.1-cp311-cp311-win_amd64.whl"    [Kindly replace with your file location}
+# >> pip install face_recognition
 
 ## Description
 ###  A computer vision system made with the help of opencv that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
