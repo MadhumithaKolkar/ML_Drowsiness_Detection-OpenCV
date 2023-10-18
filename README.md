@@ -1,8 +1,8 @@
-# Computer-Vision-Project-Driver-drowsiness-detection-Full-code-explanation-OpenCV-Python-Dlib
+# Drowsiness Detection using Python ad OpenCV:
 
 
 ## Applications
-### This can be used by riders who tends to drive the vehicle for a longer period of time that may lead to accidents
+### This is useful for drivers so that they can be alerted during long rides in case they tend to dose off.
 ## Code Requirements
 ### The example code is in Python ([version 3.8](https://www.python.org/download/releases/3.8/) or higher will work).
 ## Dependencies
@@ -16,6 +16,14 @@
  7)import time
  8)import sys
  ```
+>> pip install opencv-python
+>> pip install immutils
+>> pip install scipy
+>> pip install playsound
+--> For dlib : Issues will occur , for this reason - download the whl file for your Python version . Then use command from PyCharm as
+>> pip install "C:\Users\madhu\Desktop\ML - Jupyter Projects\dlib-19.24.1-cp311-cp311-win_amd64.whl"    [Kindly replace with your file location}
+>> pip install face_recognition
+
 ## Description
 ###  A computer vision system made with the help of opencv that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
 ## Algorithm
