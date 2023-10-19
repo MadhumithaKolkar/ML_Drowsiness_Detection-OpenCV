@@ -5,6 +5,9 @@
 ### This is useful for drivers so that they can be alerted during long rides in case they tend to dose off.
 ## Code Requirements
 ### The example code is in Python ([version 3.8](https://www.python.org/download/releases/3.8/) or higher will work).
+
+https://github.com/MadhumithaKolkar/ML_Drowsiness_Detection-OpenCV/assets/54811937/3823f585-7204-4a7f-a9c9-1fda4bc67353
+
 ## Dependencies
 ```
  1)import cv2
